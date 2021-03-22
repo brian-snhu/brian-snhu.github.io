@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Brian Russell's ePortfolio for CS-499
 
-You can use the [editor on GitHub](https://github.com/brian-snhu/brian-snhu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Self-Assessment Here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code Review
+    The project in question is a current online game called Free Infantry Online, a defunct Harmless Games/Sony game. A group of dedicated software developers (including myself) decided to continue their legacy with Sony's expressed permission. For this game written in C#.Net, I decided to create a new launcher that will allow a person to log into the game. The launcher is designed and programmed by me with graphics provided be another team member. Its function is to allow a user to connect to the account server and verify their credentials before given access to the game.
 
-### Markdown
+### Enhancement One: Software Engineering & Design
+    In this category, the plan was to allow the software to have a one way communication line between the call functions and the forms. The return data would be event calls that gave the required responses only. I modified the forgot password button to have its own Windows Form. The functionality is to provide the user with a window that has a username and a password button which will decide what the request is. After the user picks, it will send this data using JSON to the server and wait for a response. Once returned, it will tell the user their username or tell them to check their email for a password reset.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Enhancement Two: Algorithms and Data Structure
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brian-snhu/brian-snhu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Enhancement Three: Databases
