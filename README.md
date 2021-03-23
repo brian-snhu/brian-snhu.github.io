@@ -21,3 +21,7 @@ Self-Assessment Here
 <p align="left">
     In the Database enhancement plan, the initial request for recovery was added. In order to properly deconstruct the JSON object, a data table in MSSQL will be made that has the users account information, username, token, expire date, and a true or false boolean to validate if the token was used or not. Then, the listener handler will have the validation functions that check for any corrupted or unwanted data that is sent to it. Once the validation is completed and meets the requirements, an email is sent to the user that was registered with the account with either a password reset token link or their username. If it is a password reset token, then the email will trigger a password reset response from the account server that will allow the user to change theirs.
 </p>
+
+
+**Project Links**<br>
+* [Infantry Launcher](https://github.com/brian-snhu/Infantry-Launcher)<br>
