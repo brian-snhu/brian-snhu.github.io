@@ -12,10 +12,14 @@ Self-Assessment Here
     In this category, the plan was to allow the software to have a one way communication line between the call functions and the forms. The return data would be event calls that gave the required responses only. I modified the forgot password button to have its own Windows Form. The functionality is to provide the user with a window that has a username and a password button which will decide what the request is. After the user picks, it will send this data using JSON to the server and wait for a response. Once returned, it will tell the user their username or tell them to check their email for a password reset.
 </p>
 
+https://github.com/brian-snhu/Infantry-Launcher/commit/78d97cd357501f6a1c78462b511afc1bf763e9ef
+
 ## Enhancement Two: Algorithms and Data Structure
 <p align="left">
     For Algorithms and Data Structures, the enhancement plan was to add the necessary coding for the recovery request to be sent to the account server. In order to do so, a new class called IStatus will be constructed. This class will hold all the public objects and enumerators for requests and responses. Each request and response will be serialized and deserialized using JSON. Also, to reflect the changes, all data handlers will be changed to reflect the IStatus class.  
 </p>
+
+https://github.com/brian-snhu/Infantry-Launcher/commit/71f93f09befaf5d65e4a620477ee7d875653ea86
 
 ## Enhancement Three: Databases
 <p align="left">
