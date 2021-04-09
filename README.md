@@ -29,5 +29,8 @@ https://github.com/brian-snhu/Infantry-Launcher/commit/71f93f09befaf5d65e4a62047
 https://github.com/brian-snhu/Infantry-MiniAccountServer/commits/master
 
 
+
 **Project Links**<br>
-* [Infantry Launcher](https://github.com/brian-snhu/Infantry-Launcher)<br>
+* [Infantry Launcher](https://github.com/brian-snhu/Infantry-Launcher)
+* [Infantry Mini Account Server](https://github.com/brian-snhu/Infantry-MiniAccountServer)
+<br>
