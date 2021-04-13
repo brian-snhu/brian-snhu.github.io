@@ -30,4 +30,7 @@ In one month, not only did I learn C and how to navigate Linux, but I had the pr
 
 
 **Portfolio Links**<br>
-* [Professional Self-Assessment](https://brian-snhu.github.io/)<br>
+* [Refinement Plan & Code Review](https://brian-snhu.github.io/codereview.html)<br>
+* [Enhancement One](https://brian-snhu.github.io/enhancementone.html)<br>
+* [Enhancement Two](https://brian-snhu.github.io/enhancementtwo.html)<br>
+* [Enhancement Three](https://brian-snhu.github.io/enhancementthree.html)
