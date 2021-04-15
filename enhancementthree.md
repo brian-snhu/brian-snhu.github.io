@@ -26,3 +26,7 @@
 * [Refinement Plan & Code Review](https://brian-snhu.github.io/codereview.html)<br>
 * [Enhancement One](https://brian-snhu.github.io/enhancementone.html)<br>
 * [Enhancement Two](https://brian-snhu.github.io/enhancementtwo.html)
+
+**Project Links**<br>
+* [Infantry Launcher](https://github.com/brian-snhu/Infantry-Launcher)<br>
+* [Mini Account Server](https://github.com/brian-snhu/Infantry-MiniAccountServer)
